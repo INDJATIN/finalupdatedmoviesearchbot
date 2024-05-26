@@ -6,7 +6,7 @@ import asyncio
 from pyrogram.enums import ChatMemberStatus
 import pymongo
 #from config import 
-ADMINS = [1164156857, 6121699672]
+ADMINS = [1164156857, 6121699672,6236827748,937676279]
 
 #-------------------------------------------------------------------------------------------------------------------
 bot = Client(
