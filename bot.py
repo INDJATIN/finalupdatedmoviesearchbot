@@ -20,7 +20,7 @@ bot = Client(
 premium_channel_id = -1002006956019
 channel_username = '@cinemaluxeupdates'
 #-------------------------------------------------------------------------------------------------------------------
-client = pymongo.MongoClient("mongodb+srv://daakugaming601:53pPBDhdgR0julEl@cluster0.2tcpwvx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+client = pymongo.MongoClient("mongodb+srv://smit:smit@cluster0.pjccvjk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 db = client["CinemaLuxeBott"]
 idstoring = db["ids"]
 domain = db["domain"]
