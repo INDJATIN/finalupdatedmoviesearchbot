@@ -11,7 +11,7 @@ ADMINS = [1164156857, 6121699672]
 #-------------------------------------------------------------------------------------------------------------------
 bot = Client(
     "Tegfsz",
-    bot_token="7192994294:AAFqOrwQ8p2zLs2_kvuaLHXSk5VEEZIN9z8",
+    bot_token="7192994294:AAExnkevfWxEViBfwxZ5zcrwztRsGRwfCrM",
     api_id=27663778,
     api_hash="2e751726850d421b67021e0edf85cbc6"
 )
